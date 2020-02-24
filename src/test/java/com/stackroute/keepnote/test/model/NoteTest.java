@@ -2,6 +2,7 @@ package com.stackroute.keepnote.test.model;
 
 import java.util.Date;
 
+
 import org.junit.Before;
 import org.junit.Test;
 import org.meanbean.test.BeanTester;
